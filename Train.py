@@ -10,6 +10,7 @@ x_train, x_test = x_train / 255.0, x_test / 255.0
 
 model = tf.keras.models.Sequential([
     # convolutional neural network
+
     tf.keras.layers.Conv2D(filters=32, kernel_size=(3, 3), activation="relu", input_shape=(144, 256, 3)),
     tf.keras.layers.MaxPooling2D((2, 2)),
 
