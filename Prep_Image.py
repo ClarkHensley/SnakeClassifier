@@ -53,17 +53,20 @@ def prepareImages(root_dir = None):
 
     return (training_images, training_labels), (testing_images, testing_labels)
 
-def testImages(root_dir, pictures=[], names=[]):
+def testImages(root_dir):
+    pictures = []
+    names = []
     for root, dirs, files in os.walk(root_dir):
-        
-        for f in files:
-            temp = os.path.join(root_dir, f)
+            temp = os.path.join(root_dir, files[f])
             with Image.open(temp) as h:
                 h_2 = h.resize(new_size)
                 h_2 = np.asarray(h_2)
                 h_2 = h_2 / 255.0
                 pictures.append(h_2)
-                names.append(f)
+                names.append(temp.split("/")[-1])
+                print(names[-1])
+
+    print("Done with Prep Phase.")
         
     return np.asarray(pictures), names
 

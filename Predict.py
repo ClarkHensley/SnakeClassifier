@@ -41,7 +41,5 @@ for delta in range(100, 0, -1):
 
     print("\n\n")
 
-"""
-with open("results.txt", "w") as h:
-    h.write(final_string)"""
+print("Done!")
 
