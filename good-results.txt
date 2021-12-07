@@ -1,0 +1,600 @@
+Threshold is: 100%
+0.0% True Positives
+0.0% False Positives
+
+
+
+Threshold is: 99%
+38.62696443341604% True Positives
+15.798098983939694% False Positives
+
+
+
+Threshold is: 98%
+54.09429280397022% True Positives
+22.451655195018027% False Positives
+
+
+
+Threshold is: 97%
+61.53846153846154% True Positives
+25.59816453621763% False Positives
+
+
+
+Threshold is: 96%
+66.08767576509513% True Positives
+27.630285152409044% False Positives
+
+
+
+Threshold is: 95%
+67.99007444168734% True Positives
+28.38413634873812% False Positives
+
+
+
+Threshold is: 94%
+68.65177832919768% True Positives
+28.908554572271388% False Positives
+
+
+
+Threshold is: 93%
+69.80976013234078% True Positives
+29.5968534906588% False Positives
+
+
+
+Threshold is: 92%
+70.55417700578991% True Positives
+30.022943297279582% False Positives
+
+
+
+Threshold is: 91%
+71.38130686517783% True Positives
+30.44903310390036% False Positives
+
+
+
+Threshold is: 90%
+71.96029776674938% True Positives
+30.80957063257948% False Positives
+
+
+
+Threshold is: 89%
+72.7874276261373% True Positives
+31.235660439200263% False Positives
+
+
+
+Threshold is: 88%
+73.94540942928039% True Positives
+32.18616846935431% False Positives
+
+
+
+Threshold is: 87%
+74.68982630272953% True Positives
+32.84169124877089% False Positives
+
+
+
+Threshold is: 86%
+74.93796526054591% True Positives
+33.39888561127499% False Positives
+
+
+
+Threshold is: 85%
+75.43424317617865% True Positives
+33.8577515568666% False Positives
+
+
+
+Threshold is: 84%
+75.59966914805625% True Positives
+34.316617502458215% False Positives
+
+
+
+Threshold is: 83%
+75.68238213399503% True Positives
+34.841035725991475% False Positives
+
+
+
+Threshold is: 82%
+76.0132340777502% True Positives
+35.463782366437236% False Positives
+
+
+
+Threshold is: 81%
+76.75765095119934% True Positives
+36.08652900688299% False Positives
+
+
+
+Threshold is: 80%
+77.33664185277088% True Positives
+36.840380203212064% False Positives
+
+
+
+Threshold is: 79%
+78.08105872622002% True Positives
+37.46312684365782% False Positives
+
+
+
+Threshold is: 78%
+78.24648469809759% True Positives
+38.118649623074404% False Positives
+
+
+
+Threshold is: 77%
+78.57733664185277% True Positives
+38.839724680432646% False Positives
+
+
+
+Threshold is: 76%
+78.82547559966915% True Positives
+39.13470993117011% False Positives
+
+
+
+Threshold is: 75%
+78.82547559966915% True Positives
+39.265814487053426% False Positives
+
+
+
+Threshold is: 74%
+79.4044665012407% True Positives
+39.823008849557525% False Positives
+
+
+
+Threshold is: 73%
+79.98345740281223% True Positives
+40.38020321206162% False Positives
+
+
+
+Threshold is: 72%
+80.81058726220016% True Positives
+40.970173713536546% False Positives
+
+
+
+Threshold is: 71%
+81.30686517783292% True Positives
+41.42903965912815% False Positives
+
+
+
+Threshold is: 70%
+81.5550041356493% True Positives
+41.789577187807275% False Positives
+
+
+
+Threshold is: 69%
+81.72043010752688% True Positives
+42.05178629957391% False Positives
+
+
+
+Threshold is: 68%
+81.88585607940446% True Positives
+42.47787610619469% False Positives
+
+
+
+Threshold is: 67%
+82.21670802315964% True Positives
+43.03507046869879% False Positives
+
+
+
+Threshold is: 66%
+82.5475599669148% True Positives
+43.493936414290395% False Positives
+
+
+
+Threshold is: 65%
+82.6302729528536% True Positives
+43.69059324811537% False Positives
+
+
+
+Threshold is: 64%
+82.96112489660877% True Positives
+44.01835463782366% False Positives
+
+
+
+Threshold is: 63%
+82.96112489660877% True Positives
+44.18223533267781% False Positives
+
+
+
+Threshold is: 62%
+83.12655086848635% True Positives
+44.477220583415274% False Positives
+
+
+
+Threshold is: 61%
+83.37468982630273% True Positives
+44.73942969518191% False Positives
+
+
+
+Threshold is: 60%
+83.54011579818031% True Positives
+45.26384791871518% False Positives
+
+
+
+Threshold is: 59%
+84.20181968569065% True Positives
+45.72271386430678% False Positives
+
+
+
+Threshold is: 58%
+84.53267162944582% True Positives
+46.08325139298591% False Positives
+
+
+
+Threshold is: 57%
+84.69809760132341% True Positives
+46.57489347754834% False Positives
+
+
+
+Threshold is: 56%
+84.69809760132341% True Positives
+46.67322189446083% False Positives
+
+
+
+Threshold is: 55%
+84.94623655913979% True Positives
+47.00098328416912% False Positives
+
+
+
+Threshold is: 54%
+84.94623655913979% True Positives
+47.29596853490659% False Positives
+
+
+
+Threshold is: 53%
+84.94623655913979% True Positives
+47.722058341527365% False Positives
+
+
+
+Threshold is: 52%
+85.11166253101737% True Positives
+48.148148148148145% False Positives
+
+
+
+Threshold is: 51%
+85.11166253101737% True Positives
+48.574237954768925% False Positives
+
+
+
+Threshold is: 50%
+85.19437551695617% True Positives
+50.47525401507702% False Positives
+
+
+
+Threshold is: 49%
+85.19437551695617% True Positives
+54.08062930186824% False Positives
+
+
+
+Threshold is: 48%
+85.27708850289496% True Positives
+54.408390691576535% False Positives
+
+
+
+Threshold is: 47%
+85.35980148883374% True Positives
+54.76892822025565% False Positives
+
+
+
+Threshold is: 46%
+85.44251447477254% True Positives
+55.45722713864307% False Positives
+
+
+
+Threshold is: 45%
+85.52522746071133% True Positives
+56.07997377908882% False Positives
+
+
+
+Threshold is: 44%
+85.9387923904053% True Positives
+57.358243198951165% False Positives
+
+
+
+Threshold is: 43%
+86.10421836228288% True Positives
+58.046542117338575% False Positives
+
+
+
+Threshold is: 42%
+86.35235732009926% True Positives
+58.70206489675516% False Positives
+
+
+
+Threshold is: 41%
+86.43507030603806% True Positives
+58.89872173058014% False Positives
+
+
+
+Threshold is: 40%
+86.60049627791562% True Positives
+59.09537856440511% False Positives
+
+
+
+Threshold is: 39%
+86.9313482216708% True Positives
+59.45591609308424% False Positives
+
+
+
+Threshold is: 38%
+87.17948717948718% True Positives
+59.78367748279253% False Positives
+
+
+
+Threshold is: 37%
+87.26220016542598% True Positives
+60.63585709603409% False Positives
+
+
+
+Threshold is: 36%
+87.42762613730356% True Positives
+61.291379875450666% False Positives
+
+
+
+Threshold is: 35%
+87.51033912324235% True Positives
+61.61914126515896% False Positives
+
+
+
+Threshold is: 34%
+87.67576509511993% True Positives
+61.81579809898394% False Positives
+
+
+
+Threshold is: 33%
+87.84119106699751% True Positives
+62.1107833497214% False Positives
+
+
+
+Threshold is: 32%
+88.17204301075269% True Positives
+62.635201573254676% False Positives
+
+
+
+Threshold is: 31%
+88.42018196856907% True Positives
+63.028515240904625% False Positives
+
+
+
+Threshold is: 30%
+88.58560794044665% True Positives
+63.48738118649623% False Positives
+
+
+
+Threshold is: 29%
+89.1645988420182% True Positives
+63.94624713208784% False Positives
+
+
+
+Threshold is: 28%
+89.33002481389578% True Positives
+64.47066535562111% False Positives
+
+
+
+Threshold is: 27%
+89.82630272952854% True Positives
+64.99508357915438% False Positives
+
+
+
+Threshold is: 26%
+90.32258064516128% True Positives
+65.32284496886267% False Positives
+
+
+
+Threshold is: 25%
+90.65343258891646% True Positives
+65.5850540806293% False Positives
+
+
+
+Threshold is: 24%
+90.90157154673284% True Positives
+65.81448705342511% False Positives
+
+
+
+Threshold is: 23%
+91.06699751861042% True Positives
+66.04392002622092% False Positives
+
+
+
+Threshold is: 22%
+91.56327543424318% True Positives
+66.76499508357917% False Positives
+
+
+
+Threshold is: 21%
+91.72870140612076% True Positives
+67.1583087512291% False Positives
+
+
+
+Threshold is: 20%
+91.89412737799834% True Positives
+67.94493608652901% False Positives
+
+
+
+Threshold is: 19%
+92.14226633581472% True Positives
+68.53490658800393% False Positives
+
+
+
+Threshold is: 18%
+92.72125723738627% True Positives
+69.55096689609964% False Positives
+
+
+
+Threshold is: 17%
+92.80397022332507% True Positives
+71.09144542772862% False Positives
+
+
+
+Threshold is: 16%
+93.05210918114145% True Positives
+72.99246148803671% False Positives
+
+
+
+Threshold is: 15%
+93.79652605459057% True Positives
+74.46738774172402% False Positives
+
+
+
+Threshold is: 14%
+94.37551695616212% True Positives
+76.86004588659456% False Positives
+
+
+
+Threshold is: 13%
+94.6236559139785% True Positives
+79.54768928220255% False Positives
+
+
+
+Threshold is: 12%
+94.95450785773366% True Positives
+80.13765978367748% False Positives
+
+
+
+Threshold is: 11%
+95.45078577336642% True Positives
+80.98983939691904% False Positives
+
+
+
+Threshold is: 10%
+95.53349875930522% True Positives
+85.74237954768928% False Positives
+
+
+
+Threshold is: 9%
+95.616211745244% True Positives
+87.38118649623074% False Positives
+
+
+
+Threshold is: 8%
+96.7741935483871% True Positives
+89.31497869550967% False Positives
+
+
+
+Threshold is: 7%
+97.84946236559139% True Positives
+91.31432317273025% False Positives
+
+
+
+Threshold is: 6%
+98.75930521091811% True Positives
+93.18256309406752% False Positives
+
+
+
+Threshold is: 5%
+99.50372208436724% True Positives
+95.24745984922977% False Positives
+
+
+
+Threshold is: 4%
+99.9172870140612% True Positives
+98.1973123566044% False Positives
+
+
+
+Threshold is: 3%
+100.0% True Positives
+99.57391019337922% False Positives
+
+
+
+Threshold is: 2%
+100.0% True Positives
+99.90167158308752% False Positives
+
+
+
+Threshold is: 1%
+100.0% True Positives
+99.93444772205834% False Positives
+
+
+

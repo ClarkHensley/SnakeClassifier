@@ -9,7 +9,7 @@ from Prep_Image import testImages
 
 THRESHOLD = 0.30
 
-model = tf.keras.models.load_model('savedModels/testModel', compile = True)
+model = tf.keras.models.load_model('savedModels/bestSoFar', compile = True)
 
 snake_dir = "/home/clark/Documents/notes/AI/SnakeClassifier/data/Snake"
 snake_data, snake_names = testImages(snake_dir)
@@ -23,12 +23,12 @@ for delta in range(100, 0, -1):
 
     snake_list = []
     for i in range(len(snake_results)):
-        if snake_results[i][0] > delta / 100:
+        if snake_results[i][0] >= delta / 100:
             snake_list.append(os.path.join(snake_dir, snake_names[i]))
     
     no_list = []
     for i in range(len(no_results)):
-        if no_results[i][0] > delta / 100:
+        if no_results[i][0] >= delta / 100:
             no_list.append(os.path.join(no_dir, no_names[i]))
     
     print("Threshold is: " + str(delta) + "%")
